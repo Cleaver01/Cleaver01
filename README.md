@@ -43,7 +43,7 @@
 
 <div align="center">
   Stuff I Know: <br>
-  <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5" align="center">
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html" align="center">
   <img src="https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript" align="center">
   <img src="https://img.shields.io/badge/C%23-red?style=flat-square&logo=c%20sharp" align="center">
   <img src="https://img.shields.io/badge/Node-red?style=flat-square&logo=node.js" align="center">
