@@ -24,7 +24,7 @@
 <div align="center">
     Here are some things I've helped with/made I guess:
     <ul>
-      <li><a href="https://weavr.xyz">Discord Music Bot</a></li>
+      <li><a href="https://weavrbot.xyz">Discord Music Bot</a></li>
       <li><a href="https://cleaver.social/">About me</a></li>
       <li><a href="https://eboy.academy/">Joint Website</a></li>
     </ul>
