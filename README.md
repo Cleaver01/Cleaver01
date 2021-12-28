@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">
-    <img src="" align="center"><br>
     <img src="https://img.shields.io/badge/status-dead-red" align="center">
     <a href="https://twitter.com/xbeaxzz">
       <img src="https://img.shields.io/badge/Twitter-@xbeaxzz-red?style=flat-square&logo=twitter" align="center">
