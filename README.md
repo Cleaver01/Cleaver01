@@ -15,7 +15,7 @@
   
 </div>
 
-<h2 align="center"> I make things! <br>
+<h2 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cleaver01&show_icons=true&theme=radical" align="center"> 
 </h2>
 
