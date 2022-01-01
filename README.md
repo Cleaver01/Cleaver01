@@ -2,7 +2,7 @@
   <h1 align="center">
     <img src="https://img.shields.io/badge/status-dead-red" align="center">
     <a href="https://twitter.com/xbeaxzz">
-      <img src="https://img.shields.io/badge/Twitter-@xbeaxzz-red?style=flat-square&logo=twitter" align="center">
+      <img src="https://img.shields.io/badge/Twitter-@Cleaver-red?style=flat-square&logo=twitter" align="center">
     </a>
     <img src="https://img.shields.io/badge/Discord-Cleaver%230002-red?style=flat-square&logo=discord" align="center">
     <a href="https://open.spotify.com/user/y8eqqtn9ekg2qrfmz1cjimu6h">
